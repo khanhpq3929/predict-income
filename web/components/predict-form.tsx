@@ -230,7 +230,7 @@ export function PredictForm() {
               />
             </div>
             <Button type="submit" className="w-1/2 mx-auto">
-              Check
+              Submit / Check income
             </Button>
           </form>
         </Form>
