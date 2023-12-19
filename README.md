@@ -38,4 +38,4 @@ This is the project for predicting adult income. The project includes machine le
     ```
     python app.py
     ```
-- **Step 4:** Open the web browser and go to http://localhost:3000
+- **Step 4:** Open the web browser and go to http://localhost:3000 
